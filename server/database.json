@@ -1,0 +1,110 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "nom_produit": "gilet",
+      "description": "gilet noir",
+      "marque": "Polo",
+      "prix": "$10.47",
+      "qtestock": "261",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2FG_70526328_320_VPP_1.webp?alt=media&token=19243f3e-eff4-4ccd-930c-2902c4aa8bbe"
+    },
+    {
+      "id": 2,
+      "nom_produit": "chemisier",
+      "description": "chemisier bleu",
+      "marque": "H&M",
+      "prix": "$8.74",
+      "qtestock": "29",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2F83978872c49aefec96aa4c95aee8f4ae.webp?alt=media&token=547aa533-ec59-4fe5-88cc-d7d63f1ae340"
+    },
+    {
+      "id": 3,
+      "nom_produit": "jean",
+      "description": "jean noir",
+      "marque": "exist",
+      "prix": "$20.53",
+      "qtestock": "211",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2F5018352800_2_4_3.jpg?alt=media&token=fdc894ce-cbed-4bc9-9f84-aa4b31f1671e"
+    },
+    {
+      "id": 6,
+      "nom_produit": "robe",
+      "description": "robe rouge",
+      "marque": "lacoste",
+      "prix": "$50.53",
+      "qtestock": "211",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Fchic-jacquard-robe-femme-soiree-cocktail-sur-l-epa.webp?alt=media&token=0a722e9b-3e12-42aa-b042-1da6dbad881a"
+    },
+    {
+      "nom_produit": "gilet",
+      "description": "glet noir",
+      "marque": "adidas",
+      "qtestock": "22",
+      "prix": "$20",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(8).png?alt=media&token=41d23652-76e0-46fb-a538-8e65b4298f17",
+      "id": 7
+    },
+    {
+      "nom_produit": "snow",
+      "description": "snow flake",
+      "marque": "snow water",
+      "qtestock": "40",
+      "prix": "5000",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "nomcategorie": "les vetements",
+      "qtestock": "211",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Fensemble-vetements-accessoires-femme-affaires-vetements-mode-elegance-pour-style-professionnel_1284-52996.webp?alt=media&token=4c3770e5-0edc-4ebc-a2ee-c4dd23360138",
+      "id": 1
+    },
+    {
+      "nomcategorie": "les chaussures",
+      "qtestock": "741",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(30).jfif?alt=media&token=0712b1b4-ffc1-46fd-91cb-aa0005a1a3a3",
+      "id": 2
+    },
+    {
+      "nomcategorie": "accessoires",
+      "qtestock": "33",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(31).jfif?alt=media&token=a2cce169-9634-4bda-b65b-4f284b28208e",
+      "id": 3
+    },
+    {
+      "nomcategorie": "materieux",
+      "qtestock": "33",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Fimages%20(22).jfif?alt=media&token=1ee1685f-91dd-4d86-a968-af7acfe2d22b",
+      "id": 4
+    }
+  ],
+  "marque": [
+    {
+      "id": 1,
+      "nomsouscategorie": "louis vuitton",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(3).png?alt=media&token=d75dd171-ca2b-4e3e-830f-148c3a5453ef"
+    },
+    {
+      "id": 2,
+      "nomsouscategorie": "nike",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(4).png?alt=media&token=230d475f-befa-4ec3-8c47-ef951e0fbd6a"
+    },
+    {
+      "id": 3,
+      "nomsouscategorie": "calvin klein",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(5).png?alt=media&token=6a48a6d6-55bf-4261-ae1a-5fb4523e97f2"
+    },
+    {
+      "id": 4,
+      "nomsouscategorie": "chanel",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(6).png?alt=media&token=e7ec82f7-7163-48dd-a56b-8ff78d606023"
+    },
+    {
+      "id": 5,
+      "nomsouscategorie": "adidas",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reactproject-5fc9e.appspot.com/o/files%2Ft%C3%A9l%C3%A9charg%C3%A9%20(7).png?alt=media&token=b4946fe0-091d-40d9-ab74-baba24547b7b"
+    }
+  ]
+}
